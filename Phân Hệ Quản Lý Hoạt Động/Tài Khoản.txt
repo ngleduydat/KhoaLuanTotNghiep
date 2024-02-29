@@ -1,0 +1,43 @@
+---Tài khoản sinh viên
+a) Sinh Viên1
+Tên đăng nhập: sinhvien01
+Mật khẩu: 123456
+b) Sinh Viên 2
+Tên đăng nhập: sinhvien02
+Mật khẩu: 111111
+
+---Tài khoản Ban Tổ Chức
+a) Ban Tổ Chức 1
+Tên đăng nhập: chuyentonho@ueh.edu.vn
+Mật khẩu: 123456
+b) Ban Tổ Chức 2
+Tên đăng nhập: ctxh@ueh.edu.vn
+Mật khẩu: 123456
+c) Ban Tổ Chức 3
+Tên đăng nhập: ssg@ueh.edu.vn
+Mật khẩu: 123456
+d) Ban Tổ Chức 4
+Tên đăng nhập: ktx4345@ueh.edu.vn
+Mật khẩu: 123456
+d) Ban Tổ Chức 5
+Tên đăng nhập: ktx135a@ueh.edu.vn
+Mật khẩu: 123456
+
+---Tài khoản Đơn Vị Quản Lý
+a) Đơn Vị Quản Lý 1
+Tên đăng nhập: doanthanhnien
+Mật khẩu: 123456
+b) Đơn Vị Quản Lý 2
+Tên đăng nhập: hoisinhvien
+Mật khẩu: 123456
+c) Đơn Vị Quản Lý 3
+Tên đăng nhập: dsa
+Mật khẩu: 123456
+d) Đơn Vị Quản Lý 4
+Tên đăng nhập: phongdaotao 
+Mật khẩu: 123456
+
+---Tài khoản Admin
+a) Admin
+Tên đăng nhập: admin01 
+Mật khẩu: 123456
